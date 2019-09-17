@@ -4,7 +4,7 @@
 
 ### Format
 ```
-<type>(<scope>): <subject>
+<type> <scope>: <subject>
 
 <body>
 
