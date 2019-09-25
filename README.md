@@ -49,7 +49,7 @@ This is one of the following emojis:
 | :recycle:    | `:recycle:`     | General refactoring          | :x:                     | :heavy_check_mark:        |
 | :zap:        | `:zap:`         | Performance- / memory-related refactoring | :x:  | :heavy_check_mark:              |
 | :art:        | `:art:`         | Formatting, white space, renaming variables etc | :x:  | :x:                       |
-| :pencil:     | `:pencil:`      | Documentation, code comments | :x:                     | :x:                       |
+| :pencil:     | `:pencil:`      | Documentation, log messages, code comments | :x:                     | :x:                       |
 | :mag:        | `:mag:`         | Writing, refactoring, fixing automated tests | :x:     | :x:                       |
 | :wrench:     | `:wrench:`      | Build scripts, CI, gitignore, other chore       | :x:  | :x:                       |
 
